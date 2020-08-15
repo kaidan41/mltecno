@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"connectionString": "mongodb://cosmodbacc02:@cosmodbacc02.documents.azure.com:10255/?tls=true;replicaSet=globaldb",
 			"database": "bolasapo",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZMDIwMDQ0MDRfOWE1YzhiZjItY2JiMS00MzVmLThmZmMtNjhkMmQ2NmY2ODBhIg0KfQ=="
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZMDIwMDQ0MDRfZDBlODIwNjgtN2IxYS00YTg5LTg0NzMtYjA5YTc4YWQwNmVkIg0KfQ=="
 		}
 	}
 }
